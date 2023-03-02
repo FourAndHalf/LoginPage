@@ -278,11 +278,11 @@ body {
     transition-delay: 600ms;
 }
 .logreg-box.active > .form-box.login {
-    transform: translateX(450px);
+    transform: translateX(500px);
     transition-delay: 0ms;
 }
 .logreg-box > .form-box.register {
-    transform: translateX(450px);
+    transform: translateX(500px);
     transition: transform 600ms ease;
     transition-delay: 0ms;
 }
